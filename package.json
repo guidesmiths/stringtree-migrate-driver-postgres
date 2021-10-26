@@ -12,8 +12,11 @@
     "pg": "^6.0.3"
   },
   "devDependencies": {
-    "tape": "^3.0.0",
-    "stringtree-migrate-driver-testsuite": "~1.0.0"
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "husky": "^7.0.4",
+    "stringtree-migrate-driver-testsuite": "~1.0.0",
+    "tape": "^3.0.0"
   },
   "license": "Apache-2.0",
   "repository": {
